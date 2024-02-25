@@ -1,0 +1,13 @@
+{
+  "0": {
+    "tag": "plc",
+    "name": "Placeholder Nation",
+    "culture": "placeholder culture",
+    "s_cultures": [],
+    "religion": "placeholder religion",
+    "s_religion": [],
+    "capital": 1,
+    "treasury": 100,
+    "prestige": 100
+  }
+}

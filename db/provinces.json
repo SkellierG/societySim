@@ -1,0 +1,18 @@
+{
+  "1": {
+    "name": "chagua",
+    "hasCity": false,
+    "type": true,
+    "rgo": "coal",
+    "inf": [],
+    "city": null
+  },
+  "2": {
+    "name": "oinawa",
+    "hasCity": true,
+    "type": false,
+    "rgo": "grain",
+    "inf": [],
+    "city": 1
+  }
+}
