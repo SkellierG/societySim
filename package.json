@@ -1,0 +1,32 @@
+{
+  "name": "societysim",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkellierG/societySim.git"
+  },
+  "author": "SkellierG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkellierG/societySim/issues"
+  },
+  "homepage": "https://github.com/SkellierG/societySim#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^3.6.10",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9"
+  }
+}
